@@ -1,0 +1,14 @@
+{
+"app_title":"News App",
+  "sport":"Sport",
+  "setting":"Setting",
+
+
+  "arabic":"Arabic",
+  "english":"English",
+  "light":"Light",
+  "dark":"Dark",
+  "theme":"Theme",
+
+  "language":"Language"
+}
